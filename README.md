@@ -1,7 +1,8 @@
 # Seoul Bike Sharing Demand Prediction
 
 ## Project Summary
-This Seoul Bike Sharing Demand Prediction project aims to forecast the demand for bike-sharing based on historical data. The dataset used contains information from a bike-sharing system including date, hour, weather conditions, temperature, and the number of bikes rented.
+This Seoul Bike Sharing Demand Prediction project aims to forecast the demand for bike-sharing based on historical data. The dataset used contains information from a bike-sharing system including date, hour, weather conditions, temperature, and the number of bikes rented so to ensure a stable supply of rental bikes, thereby enhancing mobility comfort for the public.
+
 
 ## Project Goal 
 The goal of this project is to build a predictive model that accurately estimates bike rental demand for any given hour. The model is evaluated based on its accuracy in predicting the number of bikes rented during a specific hour.
@@ -18,8 +19,24 @@ The goal of this project is to build a predictive model that accurately estimate
 - Feature importance analysis highlighted the significant influence of Functioning Days, Rainfall, and Seasons on the XGBoost model.
 - SHAP (SHapley Additive exPlanations) was used to explain the XGBoost model's predictions.
 
-## Problem Statement
-The prediction of bike rental demand is crucial for optimizing the supply of rental bikes in urban cities. By accurately forecasting the required bike count at each hour, cities can ensure a stable supply of rental bikes, thereby enhancing mobility comfort for the public.
+## Conclusion
+
+- Customers tend to rent motorcycles equally across all seasons.
+- Rental bike usage is highest during functional hours and least during the night.
+- Bike rentals are popular throughout the year, with a notable increase in 2018 compared to 2017.
+- Rental bike usage peaks during office commute times in the morning and evening.
+- Humidity levels between 10% and 18% are optimal for bike rentals.
+- Dew point temperatures ranging from 12°C to 18°C are ideal for rental bike usage.
+- Solar radiation, rain, and snowfall have varying effects on rental bike usage.
+- The first 10 days and the last 15 days of the month see the highest rental bike usage.
+- June and October are the peak months for rental bike usage.
+- Visibility exceeding 1750 increases rental bike usage.
+- Rental bike usage is higher during summer and autumn compared to winter.
+- Even on non-holiday days, rental bike usage remains consistent.
+- Most rental bikes are used during their functional hours.
+
+Overall, these insights can help in understanding customer preferences and optimizing bike rental services.
+
 
 ## Acknowledgments
 The dataset[SeoulBikeData.csv] used in this analysis is sourced from [https://data.mendeley.com/datasets/zbdtzxcxvg/1] and is publicly available.
