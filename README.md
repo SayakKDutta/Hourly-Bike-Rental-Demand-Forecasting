@@ -21,7 +21,10 @@ The project goal is to build a predictive model that accurately estimates bike r
 The prediction of bike rental demand is crucial for optimizing the supply of rental bikes in urban cities. By accurately forecasting the required bike count at each hour, cities can ensure a stable supply of rental bikes, thereby enhancing mobility comfort for the public.
 
 ## Acknowledgments
-The dataset used in this analysis is sourced from [https://data.mendeley.com/datasets/zbdtzxcxvg/1] and is publicly available.
+The dataset[SeoulBikeData.csv] used in this analysis is sourced from [https://data.mendeley.com/datasets/zbdtzxcxvg/1] and is publicly available.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Contributing
 1. Fork the repository.
