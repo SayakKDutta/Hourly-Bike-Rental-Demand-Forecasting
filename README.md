@@ -30,7 +30,7 @@ The goal of this project is to build a predictive model that accurately estimate
 - Solar radiation, rain, and snowfall have varying effects on rental bike usage.
 - The first 10 days and the last 15 days of the month see the highest rental bike usage.
 - June and October are the peak months for rental bike usage.
-- Visibility exceeding 1750 increases rental bike usage.
+- Visibility exceeding 1750m increases rental bike usage.
 - Rental bike usage is higher during summer and autumn compared to winter.
 - Even on non-holiday days, rental bike usage remains consistent.
 - Most rental bikes are used during their functional hours.
