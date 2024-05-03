@@ -3,7 +3,8 @@
 ## Project Summary
 This Seoul Bike Sharing Demand Prediction project aims to forecast the demand for bike-sharing based on historical data. The dataset used contains information from a bike-sharing system including date, hour, weather conditions, temperature, and the number of bikes rented.
 
-The project goal is to build a predictive model that accurately estimates bike rental demand for any given hour. The model is evaluated based on its accuracy in predicting the number of bikes rented during a specific hour.
+## Project Goal 
+The goal of this project is to build a predictive model that accurately estimates bike rental demand for any given hour. The model is evaluated based on its accuracy in predicting the number of bikes rented during a specific hour.
 
 ## Dataset Overview
 - The dataset contains rental bike information with 8760 observations and 14 variables.
