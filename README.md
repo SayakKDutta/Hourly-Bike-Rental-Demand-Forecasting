@@ -39,7 +39,7 @@ Overall, these insights can help in understanding customer preferences and optim
 
 
 ## Acknowledgments
-The dataset[SeoulBikeData.csv](SeoulBikeData.csv) used in this analysis is sourced from [https://data.mendeley.com/datasets/zbdtzxcxvg/1] and is publicly available.
+The dataset [SeoulBikeData.csv](SeoulBikeData.csv) used in this analysis is sourced from [https://data.mendeley.com/datasets/zbdtzxcxvg/1] and is publicly available.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
